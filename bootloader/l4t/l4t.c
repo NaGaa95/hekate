@@ -284,7 +284,7 @@ typedef struct _l4t_ctxt_t
 } l4t_ctxt_t;
 
 #define DRAM_VDD2_OC_MIN_VOLTAGE   1050
-#define DRAM_VDD2_OC_MAX_VOLTAGE   1175
+#define DRAM_VDD2_OC_MAX_VOLTAGE   1250
 #define DRAM_VDD2Q_OC_MAX_VOLTAGE  1237
 #define DRAM_VDDQ_OC_MIN_VOLTAGE   550
 #define DRAM_VDDQ_OC_MAX_VOLTAGE   650
